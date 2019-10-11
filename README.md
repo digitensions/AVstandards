@@ -2,7 +2,7 @@
 Collaborative collection of available audiovisual file standards or supporting documents. Please feel free to contribute anything useful for audiovisual and digital preservation.
 
 # Naming convention for PDFs or files
-If possible  name the asset you upload to lead with the audiovisual file type, making it easier to find specific files.
+If possible please name the asset you upload with the audiovisual file type first, making it easier to find.
 
 # File format not in the repository?
 For further research into items not featured within this repository we recommend you visit:
