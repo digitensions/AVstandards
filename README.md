@@ -18,7 +18,7 @@ ST 2110-30:2017 - SMPTE Standard - Professional Media Over Managed IP Networks: 
 ST 2110-40:2018 - SMPTE Standard - Professional Media Over Managed IP Networks: SMPTE ST 291-1 Ancillary Data
 ST 2059-1:2015 - SMPTE Standard - Generation and Alignment of Interface Signals to the SMPTE Epoch
 ST 2059-2:2015 - SMPTE Standard - SMPTE Profile for Use of IEEE-1588 Precision Time Protocol in Professional Broadcast Applications
-ST 2067-2:2016 - SMPTE Standard - Interoperable Master Format - Core Constraints 
+ST 2067-2:2016 - SMPTE Standard - Interoperable Master Format - Core Constraints
 ST 2067-3:2016 - SMPTE Standard - Interoperable Master Format - Composition Playlist
 ST 2067-5:2013 2016 - SMPTE Amendment - Interoperable Master Format - Essence Component â€” Amendment 1
 ST 2067-5:2013 - SMPTE Standard - Interoperable Master Format - Essence Component
